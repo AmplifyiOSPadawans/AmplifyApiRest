@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "auth": {
+      "amplifyapirest2b93704c": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "BooksTable": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ],
+      "AuthorsTable": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

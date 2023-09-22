@@ -1,0 +1,10 @@
+{
+  "resourceName": "AuthorsTable",
+  "tableName": "AuthorsTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
